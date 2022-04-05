@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-#### Curso Escolar 20XX-20XX
+#### Curso Escolar 2021-2022
 #### Autor: [Guillermo Moreno Rodríguez](https://github.com/guille3218)
 #### Tutor: [Chema Durán](https://github.com/chemaduran)
 #### Fecha de Inicio: 16-03-2022
