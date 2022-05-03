@@ -15,10 +15,13 @@ La idea principal del proyecto es crear un foro en el que la gente pueda compart
 **Tener una gran idea** o encontrar un punto del mercado al que no se esté dando un producto o servicio es el punto de partida en cada nuevo proyecto. Antes de comenzar debes **definir claramente el propósito y la misión de la aplicación web**:
 
 - **¿Qué va a hacer la aplicación?**
+    La aplicación ayudará a que parte de la comunidad pueda comunicarse entre sí mediante posts para poder criticar/debatir/dar o recibir ayuda de diferentes temas principalmente con el tópico de videojuegos.
 - **¿Cuál es su atractivo principal?** 
+    Es una aplicación que va orientada para un público al que le gusta los videojuegos, por lo que se creará una comunidad orientada a este y los usuarios podrán expresar libremente(Y siempre con moderación) sus críticas y opiniones.
 - **¿Qué problema concreto va a resolver?** 
+    Podrá resolver diferentes dudas de usuarios, ya que estos podrán ver valoraciones y criticas de los juegos(para poder decidir si es rentable jugarlo), ayudar a resolver diferentes niveles o problemas/bugs o dar ideas/consejos para futuras actualizaciones/juegos.
 - **¿Qué necesidad va a cubrir?**
-
+    Será una red social en la que los usuarios pueden comunicarse entre ellos y poder satisfacer sus propias necesidades.
 ## Prototipo de la Interfaz del proyecto
 
 En este apartado el alumno insertará la documentación del prototipo del proyecto (sketch, wireframe, mockup y un prototipo HTML y CSS)  que permite al cliente previsualizar el resultado final del producto que se está desarrollando.
