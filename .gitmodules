@@ -1,0 +1,3 @@
+[submodule "src/ForoGamesHelper"]
+	path = src/ForoGamesHelper
+	url = https://github.com/guille3218/ForoGamesHelper.git
