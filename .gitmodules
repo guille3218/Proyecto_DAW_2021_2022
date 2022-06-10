@@ -4,3 +4,6 @@
 [submodule "src/ForoGamesHelperBack"]
 	path = src/ForoGamesHelperBack
 	url = https://github.com/guille3218/ForoGamesHelperBack.git
+[submodule "src/ForoGGamesHelperBack"]
+	path = src/ForoGGamesHelperBack
+	url = https://github.com/guille3218/ForoGamesHelperBack.git
