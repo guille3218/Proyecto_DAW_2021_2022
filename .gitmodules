@@ -1,7 +1,8 @@
 [submodule "src/ForoGamesHelper"]
 	path = src/ForoGamesHelper
-	url = https://github.com/guille3218/ForoGamesHelper.git master
-
+	url = https://github.com/guille3218/ForoGamesHelper.git
+	branch = master
 [submodule "src/ForoGGamesHelperBack"]
 	path = src/ForoGGamesHelperBack
-	url = https://github.com/guille3218/ForoGamesHelperBack.git master
+	url = https://github.com/guille3218/ForoGamesHelperBack.git
+	branch = master
